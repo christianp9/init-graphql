@@ -1,0 +1,25 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "title":"angular course",
+            "author": "fazt",
+            "topic":"java",
+            "url":"http://faztweb.com"
+        },
+        {
+            "id":2,
+            "title":"graphql course",
+            "author": "Carlos",
+            "topic":"javascript",
+            "url":"http://faztweb.com"
+        },
+        {
+            "id":3,
+            "title":"node.js course",
+            "author": "Jhon Carter",
+            "topic":"typescript",
+            "url":"http://faztweb.com"
+        }
+    ]
+}
